@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Components</string>
+    <string name="scrollView_text">Android ScrollView Example</string>
+    <string name="buttonName_text">press me!</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Componentes</string>
+    <string name="scrollView_text">Ejemplo de ScrollView</string>
+    <string name="buttonName_text">Presioname</string>
+    <string name="buttonName_text1">Boton de Andriod 1</string>
+    <string name="buttonName_text2">Boton de Android 2</string>
+    <string name="buttonName_text3">Boton de Android 3</string>
+    <string name="button1Name_text01">Este es un boton simple</string>
+    <string name="button1Name_text02">Este es el boton personalizado</string>
+    <string name="button1Name_text023">Este es el boton con gradiente</string>
+
+</resources>
