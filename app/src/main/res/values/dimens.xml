@@ -2,4 +2,8 @@
 <resources>
     <dimen name="buttonPadding_01">10dp</dimen>
     <dimen name="buttonLinear_padding">16dp</dimen>
+    <dimen name="editText_MarginLinear">16dp</dimen>
+    <dimen name="editText_TextSize">22sp</dimen>
+    <dimen name="editText_MarginTopEdit">16dp</dimen>
+    <dimen name="editText_MarginTopButton">20dp</dimen>
 </resources>

@@ -8,5 +8,50 @@
     <string name="button1Name_text01">Este es un boton simple</string>
     <string name="button1Name_text02">Este es el boton personalizado</string>
     <string name="button1Name_text023">Este es el boton con gradiente</string>
+    <string name="editText_TextView1">Android EditText Example</string>
+    <string name="editText_EditFirtsName">Enter Your First Name</string>
+    <string name="editText_EditLastName">Enter Your Last Name</string>
+    <string name="editText_ButtonRegister">Register</string>
+    <string name="checkAc_NameText">Android CheckBox Example</string>
+    <string name="checkAc_AndroidCheck">Android</string>
+    <string name="checkAc_JavaCheck">Java</string>
+    <string name="checkAc_XMLCheck">XML</string>
+    <string name="checkAc_HTMLCheck">HTML</string>
+    <string name="checkAc_CSSCheck">CSS</string>
+    <string name="checkAc_JqueryCheck">jQuery</string>
+    <string name="checkAc_PHPCheck">PHP</string>
+    <string name="checkAc_ASPCheck">ASP</string>
+    <string name="radioAc_QuestionText">Entre los diseños que figuran a continuación, ¿cuál encontraste el más fácil?</string>
+    <string name="radioAc_RadioOption1">Relative Layout</string>
+    <string name="radioAc_RadioOption2">Linear Layout</string>
+    <string name="radioAc_RadioOption3">Frame Layout</string>
+    <string name="radioAc_RadioOption4">Table Layout</string>
+    <string name="radioAc_RadioOption5">Grid Layout</string>
+    <string name="radioAc_ButtonName">Answer</string>
+    <string name="switchAc_SwitchName1">Android Switch Button 1</string>
+    <string name="switchAc_TextName1">Android Switch Button</string>
+    <string name="switchAc_SwitchName2">Android Switch Button 2</string>
+    <string name="switchAc_TextName3">Android Switch Button</string>
+    <string name="toggleAc_Toggle1">First ToggleButton</string>
+    <string name="toggleAc_ToggleText1">ToggleButton Status</string>
+    <string name="toggleAc_Toggle2">Second ToggleButton</string>
+    <string name="toggleAc_ToggleText2">ToggleButton Status</string>
+    <string name="ratingBar_NameText">Android RatingBar Example</string>
+    <string name="ratingBar_ButtonName">Submit</string>
+    <string name="ratingBar_TextResult">Your Rate</string>
+    <string name="spinnerAc_TextName">Android Spinner Example</string>
+    <string name="scrollAc_ButtonName">Show value</string>
+    <string name="progressAc_HintEdit">Enter a number bettwen 0 and 100</string>
+    <string name="progressAc_ButtonName">Show</string>
+    <string-array name="android_layout_arrays">
+        <item>Choose a Layout</item>
+        <item>LinearLayout</item>
+        <item>RelativeLayout</item>
+        <item>FrameLayout</item>
+        <item>TableLayout</item>
+        <item>AbsoluteLayout</item>
+        <item>GridLayout</item>
+    </string-array>
+
 
 </resources>
