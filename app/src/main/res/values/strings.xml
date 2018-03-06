@@ -43,6 +43,28 @@
     <string name="scrollAc_ButtonName">Show value</string>
     <string name="progressAc_HintEdit">Enter a number bettwen 0 and 100</string>
     <string name="progressAc_ButtonName">Show</string>
+    <string name="dateAc_ButtonName1">Pick Date</string>
+    <string name="dateAc_Text1">Display Date</string>
+    <string name="timeAc_ButtonName1">Change Time</string>
+    <string name="timeAc_Text1">Display Current Time</string>
+    <string name="floatindAc_Text1">Android Floating Action Button (FAB) Example Using Design Support library</string>
+    <string name="labelFAc_EditHint1">Your Name</string>
+    <string name="labelFAc_EditHint2">Email</string>
+    <string name="labelFAc_EditHint3">Password</string>
+    <string name="seekAc_Text1">Android SeekBar Example</string>
+    <string name="seekAc_Text2">Progress: 0/6</string>
+    <string name="dialogAc_ButtonName">Show Simple Android Dialog</string>
+    <string name="dialogAc_Text1">Simple Android Dialog Box</string>
+    <string name="alertAc_ButtonName">Show Custom Android Dialog</string>
+    <string name="alertAc_Text1">Custom Android Dialog Box</string>
+    <string name="custDialog_Text1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi hic culpa, velit molestiae! Facilis libero veniam rerum asperiores necessitatibus.</string>
+    <string name="custDialog_ButtonName1">Calcel</string>
+    <string name="custDialog_ButtonName2">OK</string>
+    <string name="snackBar_ButtonName">Show Snackbar</string>
+    <string name="notificationAc_ButtonName">Show Notification</string>
+    <string name="imageAc_ButtonName">Previous Image</string>
+    <string name="imageAc_ButtonName2">Next Image</string>
+    <string name="calendarAc_Text1">Fecha:</string>
     <string-array name="android_layout_arrays">
         <item>Choose a Layout</item>
         <item>LinearLayout</item>

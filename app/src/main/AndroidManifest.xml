@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="rmiya.com.componentes">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -9,7 +11,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ProgressBarActivity">
+        <activity android:name=".VideoViewActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -26,7 +28,22 @@
         <activity android:name=".SwitchButtonActivity" />
         <activity android:name=".ToggleButtonActivity" />
         <activity android:name=".RatingBarActivity" />
-        <activity android:name=".SpinnerActivity"></activity>
+        <activity android:name=".SpinnerActivity" />
+        <activity android:name=".ProgressBarActivity" />
+        <activity android:name=".DatePickerActivity" />
+        <activity android:name=".TimePickerActivity" />
+        <activity android:name=".FloatingActionButtonActivity" />
+        <activity android:name=".FloatingLabelsActivity" />
+        <activity android:name=".SeekBarActivity" />
+        <activity android:name=".SimpleDialogActivity" />
+        <activity android:name=".CustomAlertDialogActivity" />
+        <activity android:name=".SnackbarActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".NotificationActivity" />
+        <activity android:name=".ImageViewActivity" />
+        <activity android:name=".CalendarViewActivity" />
+        <activity android:name=".WebViewActivity" />
+        <activity android:name=".SearchViewActivity"></activity>
     </application>
 
 </manifest>
